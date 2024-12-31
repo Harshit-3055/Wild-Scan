@@ -28,4 +28,4 @@
 ## 🚀 Setup & Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/wild-scan.git
+   git clone https://github.com/Harshit-3055//wild-scan.git
